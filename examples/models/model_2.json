@@ -1,0 +1,5083 @@
+{
+    "type": "SHELL",
+    "vertices": [
+        {
+            "type": "VERTEX",
+            "ID": 1,
+            "prev_ID": null,
+            "next_ID": 2,
+            "he_ID": 78,
+            "point": [
+                0.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": [
+                    "sup_1"
+                ]
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 2,
+            "prev_ID": 4,
+            "next_ID": 3,
+            "he_ID": 14,
+            "point": [
+                0.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": [
+                    "sup_1"
+                ]
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 3,
+            "prev_ID": 2,
+            "next_ID": 4,
+            "he_ID": 85,
+            "point": [
+                0.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": [
+                    "sup_1"
+                ]
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 4,
+            "prev_ID": 3,
+            "next_ID": 5,
+            "he_ID": 81,
+            "point": [
+                2.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 5,
+            "prev_ID": 4,
+            "next_ID": 6,
+            "he_ID": 18,
+            "point": [
+                2.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 6,
+            "prev_ID": 5,
+            "next_ID": 7,
+            "he_ID": 133,
+            "point": [
+                1.0,
+                11.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 7,
+            "prev_ID": 6,
+            "next_ID": 8,
+            "he_ID": 76,
+            "point": [
+                4.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 8,
+            "prev_ID": 7,
+            "next_ID": 9,
+            "he_ID": 138,
+            "point": [
+                4.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 9,
+            "prev_ID": 8,
+            "next_ID": 10,
+            "he_ID": 139,
+            "point": [
+                3.0,
+                11.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 10,
+            "prev_ID": 9,
+            "next_ID": 11,
+            "he_ID": 37,
+            "point": [
+                6.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 11,
+            "prev_ID": 10,
+            "next_ID": 12,
+            "he_ID": 88,
+            "point": [
+                6.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 12,
+            "prev_ID": 11,
+            "next_ID": 13,
+            "he_ID": 36,
+            "point": [
+                5.0,
+                11.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 13,
+            "prev_ID": 12,
+            "next_ID": 14,
+            "he_ID": 38,
+            "point": [
+                8.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 14,
+            "prev_ID": 13,
+            "next_ID": 15,
+            "he_ID": 40,
+            "point": [
+                7.0,
+                11.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 15,
+            "prev_ID": 14,
+            "next_ID": 16,
+            "he_ID": 95,
+            "point": [
+                8.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 16,
+            "prev_ID": 15,
+            "next_ID": 17,
+            "he_ID": 49,
+            "point": [
+                10.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 17,
+            "prev_ID": 16,
+            "next_ID": 18,
+            "he_ID": 48,
+            "point": [
+                9.0,
+                11.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 18,
+            "prev_ID": 17,
+            "next_ID": 19,
+            "he_ID": 115,
+            "point": [
+                10.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 19,
+            "prev_ID": 18,
+            "next_ID": 20,
+            "he_ID": 4,
+            "point": [
+                12.0,
+                12.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 20,
+            "prev_ID": 19,
+            "next_ID": 21,
+            "he_ID": 5,
+            "point": [
+                12.0,
+                10.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 21,
+            "prev_ID": 20,
+            "next_ID": 22,
+            "he_ID": 57,
+            "point": [
+                11.0,
+                11.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 22,
+            "prev_ID": 21,
+            "next_ID": 23,
+            "he_ID": 6,
+            "point": [
+                12.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 23,
+            "prev_ID": 22,
+            "next_ID": 24,
+            "he_ID": 94,
+            "point": [
+                2.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 24,
+            "prev_ID": 23,
+            "next_ID": 25,
+            "he_ID": 136,
+            "point": [
+                1.0,
+                9.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 25,
+            "prev_ID": 24,
+            "next_ID": 26,
+            "he_ID": 103,
+            "point": [
+                4.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 26,
+            "prev_ID": 25,
+            "next_ID": 27,
+            "he_ID": 75,
+            "point": [
+                3.0,
+                9.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 27,
+            "prev_ID": 26,
+            "next_ID": 28,
+            "he_ID": 110,
+            "point": [
+                6.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 28,
+            "prev_ID": 27,
+            "next_ID": 29,
+            "he_ID": 87,
+            "point": [
+                5.0,
+                9.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 29,
+            "prev_ID": 28,
+            "next_ID": 30,
+            "he_ID": 121,
+            "point": [
+                8.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 30,
+            "prev_ID": 29,
+            "next_ID": 31,
+            "he_ID": 97,
+            "point": [
+                7.0,
+                9.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 31,
+            "prev_ID": 30,
+            "next_ID": 32,
+            "he_ID": 120,
+            "point": [
+                9.0,
+                9.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 32,
+            "prev_ID": 31,
+            "next_ID": 33,
+            "he_ID": 130,
+            "point": [
+                10.0,
+                8.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        },
+        {
+            "type": "VERTEX",
+            "ID": 33,
+            "prev_ID": 32,
+            "next_ID": null,
+            "he_ID": 105,
+            "point": [
+                11.0,
+                9.0
+            ],
+            "attributes": {
+                "att_names": []
+            }
+        }
+    ],
+    "edges": [
+        {
+            "type": "EDGE",
+            "ID": 1,
+            "prev_ID": null,
+            "next_ID": 2,
+            "he1_ID": 22,
+            "he2_ID": 13,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    0.0,
+                    12.0
+                ],
+                [
+                    0.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "sup_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 2,
+            "prev_ID": 1,
+            "next_ID": 3,
+            "he1_ID": 85,
+            "he2_ID": 12,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    0.0,
+                    10.0
+                ],
+                [
+                    0.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "sup_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 3,
+            "prev_ID": 2,
+            "next_ID": 4,
+            "he1_ID": 81,
+            "he2_ID": 24,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    10.0
+                ],
+                [
+                    0.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 4,
+            "prev_ID": 3,
+            "next_ID": 5,
+            "he1_ID": 18,
+            "he2_ID": 14,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    12.0
+                ],
+                [
+                    0.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "Uniform_load_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 5,
+            "prev_ID": 4,
+            "next_ID": 6,
+            "he1_ID": 19,
+            "he2_ID": 21,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    0.0,
+                    12.0
+                ],
+                [
+                    1.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 6,
+            "prev_ID": 5,
+            "next_ID": 7,
+            "he1_ID": 133,
+            "he2_ID": 25,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    1.0,
+                    11.0
+                ],
+                [
+                    2.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 7,
+            "prev_ID": 6,
+            "next_ID": 8,
+            "he1_ID": 20,
+            "he2_ID": 23,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    0.0,
+                    10.0
+                ],
+                [
+                    1.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 8,
+            "prev_ID": 7,
+            "next_ID": 9,
+            "he1_ID": 17,
+            "he2_ID": 132,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    1.0,
+                    11.0
+                ],
+                [
+                    2.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 9,
+            "prev_ID": 8,
+            "next_ID": 10,
+            "he1_ID": 76,
+            "he2_ID": 33,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    10.0
+                ],
+                [
+                    2.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 10,
+            "prev_ID": 9,
+            "next_ID": 11,
+            "he1_ID": 27,
+            "he2_ID": 15,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    12.0
+                ],
+                [
+                    2.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "Uniform_load_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 11,
+            "prev_ID": 10,
+            "next_ID": 12,
+            "he1_ID": 28,
+            "he2_ID": 31,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    12.0
+                ],
+                [
+                    3.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 12,
+            "prev_ID": 11,
+            "next_ID": 13,
+            "he1_ID": 139,
+            "he2_ID": 34,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    3.0,
+                    11.0
+                ],
+                [
+                    4.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 13,
+            "prev_ID": 12,
+            "next_ID": 14,
+            "he1_ID": 30,
+            "he2_ID": 32,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    10.0
+                ],
+                [
+                    3.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 14,
+            "prev_ID": 13,
+            "next_ID": 15,
+            "he1_ID": 26,
+            "he2_ID": 138,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    3.0,
+                    11.0
+                ],
+                [
+                    4.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 15,
+            "prev_ID": 14,
+            "next_ID": 16,
+            "he1_ID": 37,
+            "he2_ID": 16,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    12.0
+                ],
+                [
+                    4.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "Uniform_load_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 16,
+            "prev_ID": 15,
+            "next_ID": 17,
+            "he1_ID": 88,
+            "he2_ID": 46,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    10.0
+                ],
+                [
+                    4.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 17,
+            "prev_ID": 16,
+            "next_ID": 18,
+            "he1_ID": 42,
+            "he2_ID": 45,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    10.0
+                ],
+                [
+                    5.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 18,
+            "prev_ID": 17,
+            "next_ID": 19,
+            "he1_ID": 36,
+            "he2_ID": 144,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    5.0,
+                    11.0
+                ],
+                [
+                    6.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 19,
+            "prev_ID": 18,
+            "next_ID": 20,
+            "he1_ID": 35,
+            "he2_ID": 43,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    12.0
+                ],
+                [
+                    5.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 20,
+            "prev_ID": 19,
+            "next_ID": 21,
+            "he1_ID": 145,
+            "he2_ID": 44,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    5.0,
+                    11.0
+                ],
+                [
+                    6.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 21,
+            "prev_ID": 20,
+            "next_ID": 22,
+            "he1_ID": 51,
+            "he2_ID": 55,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    10.0
+                ],
+                [
+                    7.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 22,
+            "prev_ID": 21,
+            "next_ID": 23,
+            "he1_ID": 40,
+            "he2_ID": 150,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    7.0,
+                    11.0
+                ],
+                [
+                    8.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 23,
+            "prev_ID": 22,
+            "next_ID": 24,
+            "he1_ID": 39,
+            "he2_ID": 52,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    12.0
+                ],
+                [
+                    7.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 24,
+            "prev_ID": 23,
+            "next_ID": 25,
+            "he1_ID": 151,
+            "he2_ID": 54,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    7.0,
+                    11.0
+                ],
+                [
+                    8.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 25,
+            "prev_ID": 24,
+            "next_ID": 26,
+            "he1_ID": 49,
+            "he2_ID": 2,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    12.0
+                ],
+                [
+                    8.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "Uniform_load_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 26,
+            "prev_ID": 25,
+            "next_ID": 27,
+            "he1_ID": 60,
+            "he2_ID": 63,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    10.0
+                ],
+                [
+                    9.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 27,
+            "prev_ID": 26,
+            "next_ID": 28,
+            "he1_ID": 48,
+            "he2_ID": 156,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    9.0,
+                    11.0
+                ],
+                [
+                    10.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 28,
+            "prev_ID": 27,
+            "next_ID": 29,
+            "he1_ID": 115,
+            "he2_ID": 64,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    10.0
+                ],
+                [
+                    8.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 29,
+            "prev_ID": 28,
+            "next_ID": 30,
+            "he1_ID": 47,
+            "he2_ID": 61,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    12.0
+                ],
+                [
+                    9.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 30,
+            "prev_ID": 29,
+            "next_ID": 31,
+            "he1_ID": 157,
+            "he2_ID": 62,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    9.0,
+                    11.0
+                ],
+                [
+                    10.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 31,
+            "prev_ID": 30,
+            "next_ID": 32,
+            "he1_ID": 58,
+            "he2_ID": 3,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    12.0,
+                    12.0
+                ],
+                [
+                    10.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "Uniform_load_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 32,
+            "prev_ID": 31,
+            "next_ID": 33,
+            "he1_ID": 106,
+            "he2_ID": 70,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    12.0,
+                    10.0
+                ],
+                [
+                    10.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 33,
+            "prev_ID": 32,
+            "next_ID": 34,
+            "he1_ID": 66,
+            "he2_ID": 69,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    10.0
+                ],
+                [
+                    11.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 34,
+            "prev_ID": 33,
+            "next_ID": 35,
+            "he1_ID": 57,
+            "he2_ID": 72,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    11.0,
+                    11.0
+                ],
+                [
+                    12.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 35,
+            "prev_ID": 34,
+            "next_ID": 36,
+            "he1_ID": 56,
+            "he2_ID": 67,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    12.0
+                ],
+                [
+                    11.0,
+                    11.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 36,
+            "prev_ID": 35,
+            "next_ID": 37,
+            "he1_ID": 73,
+            "he2_ID": 68,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    11.0,
+                    11.0
+                ],
+                [
+                    12.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 37,
+            "prev_ID": 36,
+            "next_ID": 38,
+            "he1_ID": 4,
+            "he2_ID": 71,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    12.0,
+                    12.0
+                ],
+                [
+                    12.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 38,
+            "prev_ID": 37,
+            "next_ID": 39,
+            "he1_ID": 5,
+            "he2_ID": 123,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    12.0,
+                    10.0
+                ],
+                [
+                    12.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 39,
+            "prev_ID": 38,
+            "next_ID": 40,
+            "he1_ID": 78,
+            "he2_ID": 11,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    0.0,
+                    8.0
+                ],
+                [
+                    2.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 40,
+            "prev_ID": 39,
+            "next_ID": 41,
+            "he1_ID": 82,
+            "he2_ID": 84,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    0.0,
+                    10.0
+                ],
+                [
+                    1.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 41,
+            "prev_ID": 40,
+            "next_ID": 42,
+            "he1_ID": 136,
+            "he2_ID": 79,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    1.0,
+                    9.0
+                ],
+                [
+                    2.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 42,
+            "prev_ID": 41,
+            "next_ID": 43,
+            "he1_ID": 135,
+            "he2_ID": 80,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    10.0
+                ],
+                [
+                    1.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 43,
+            "prev_ID": 42,
+            "next_ID": 44,
+            "he1_ID": 77,
+            "he2_ID": 83,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    1.0,
+                    9.0
+                ],
+                [
+                    0.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 44,
+            "prev_ID": 43,
+            "next_ID": 45,
+            "he1_ID": 94,
+            "he2_ID": 10,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    8.0
+                ],
+                [
+                    4.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 45,
+            "prev_ID": 44,
+            "next_ID": 46,
+            "he1_ID": 90,
+            "he2_ID": 93,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    8.0
+                ],
+                [
+                    3.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 46,
+            "prev_ID": 45,
+            "next_ID": 47,
+            "he1_ID": 75,
+            "he2_ID": 141,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    3.0,
+                    9.0
+                ],
+                [
+                    4.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 47,
+            "prev_ID": 46,
+            "next_ID": 48,
+            "he1_ID": 74,
+            "he2_ID": 91,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    10.0
+                ],
+                [
+                    3.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 48,
+            "prev_ID": 47,
+            "next_ID": 49,
+            "he1_ID": 142,
+            "he2_ID": 92,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    3.0,
+                    9.0
+                ],
+                [
+                    4.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 49,
+            "prev_ID": 48,
+            "next_ID": 50,
+            "he1_ID": 103,
+            "he2_ID": 9,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    8.0
+                ],
+                [
+                    6.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 50,
+            "prev_ID": 49,
+            "next_ID": 51,
+            "he1_ID": 99,
+            "he2_ID": 102,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    8.0
+                ],
+                [
+                    5.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 51,
+            "prev_ID": 50,
+            "next_ID": 52,
+            "he1_ID": 87,
+            "he2_ID": 147,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    5.0,
+                    9.0
+                ],
+                [
+                    6.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 52,
+            "prev_ID": 51,
+            "next_ID": 53,
+            "he1_ID": 86,
+            "he2_ID": 100,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    10.0
+                ],
+                [
+                    5.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 53,
+            "prev_ID": 52,
+            "next_ID": 54,
+            "he1_ID": 148,
+            "he2_ID": 101,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    5.0,
+                    9.0
+                ],
+                [
+                    6.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 54,
+            "prev_ID": 53,
+            "next_ID": 55,
+            "he1_ID": 108,
+            "he2_ID": 112,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    8.0
+                ],
+                [
+                    7.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 55,
+            "prev_ID": 54,
+            "next_ID": 56,
+            "he1_ID": 97,
+            "he2_ID": 153,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    7.0,
+                    9.0
+                ],
+                [
+                    8.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 56,
+            "prev_ID": 55,
+            "next_ID": 57,
+            "he1_ID": 96,
+            "he2_ID": 109,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    10.0
+                ],
+                [
+                    7.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 57,
+            "prev_ID": 56,
+            "next_ID": 58,
+            "he1_ID": 154,
+            "he2_ID": 111,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    7.0,
+                    9.0
+                ],
+                [
+                    8.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 58,
+            "prev_ID": 57,
+            "next_ID": 59,
+            "he1_ID": 159,
+            "he2_ID": 114,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    10.0
+                ],
+                [
+                    9.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 59,
+            "prev_ID": 58,
+            "next_ID": 60,
+            "he1_ID": 120,
+            "he2_ID": 117,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    9.0,
+                    9.0
+                ],
+                [
+                    8.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 60,
+            "prev_ID": 59,
+            "next_ID": 61,
+            "he1_ID": 121,
+            "he2_ID": 7,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    8.0
+                ],
+                [
+                    10.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 61,
+            "prev_ID": 60,
+            "next_ID": 62,
+            "he1_ID": 130,
+            "he2_ID": 6,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    8.0
+                ],
+                [
+                    12.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 62,
+            "prev_ID": 61,
+            "next_ID": 63,
+            "he1_ID": 113,
+            "he2_ID": 118,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    10.0
+                ],
+                [
+                    9.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 63,
+            "prev_ID": 62,
+            "next_ID": 64,
+            "he1_ID": 160,
+            "he2_ID": 119,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    9.0,
+                    9.0
+                ],
+                [
+                    10.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 64,
+            "prev_ID": 63,
+            "next_ID": 65,
+            "he1_ID": 126,
+            "he2_ID": 129,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    8.0
+                ],
+                [
+                    11.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 65,
+            "prev_ID": 64,
+            "next_ID": 66,
+            "he1_ID": 105,
+            "he2_ID": 124,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    11.0,
+                    9.0
+                ],
+                [
+                    12.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 66,
+            "prev_ID": 65,
+            "next_ID": 67,
+            "he1_ID": 104,
+            "he2_ID": 127,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    10.0
+                ],
+                [
+                    11.0,
+                    9.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 67,
+            "prev_ID": 66,
+            "next_ID": 68,
+            "he1_ID": 122,
+            "he2_ID": 128,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    11.0,
+                    9.0
+                ],
+                [
+                    12.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 68,
+            "prev_ID": 67,
+            "next_ID": 69,
+            "he1_ID": 29,
+            "he2_ID": 131,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    12.0
+                ],
+                [
+                    2.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 69,
+            "prev_ID": 68,
+            "next_ID": 70,
+            "he1_ID": 89,
+            "he2_ID": 134,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    2.0,
+                    10.0
+                ],
+                [
+                    2.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 70,
+            "prev_ID": 69,
+            "next_ID": 71,
+            "he1_ID": 41,
+            "he2_ID": 137,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    12.0
+                ],
+                [
+                    4.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 71,
+            "prev_ID": 70,
+            "next_ID": 72,
+            "he1_ID": 98,
+            "he2_ID": 140,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    4.0,
+                    10.0
+                ],
+                [
+                    4.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 72,
+            "prev_ID": 71,
+            "next_ID": 73,
+            "he1_ID": 50,
+            "he2_ID": 143,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    12.0
+                ],
+                [
+                    6.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 73,
+            "prev_ID": 72,
+            "next_ID": 74,
+            "he1_ID": 107,
+            "he2_ID": 146,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    10.0
+                ],
+                [
+                    6.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 74,
+            "prev_ID": 73,
+            "next_ID": 75,
+            "he1_ID": 110,
+            "he2_ID": 8,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    6.0,
+                    8.0
+                ],
+                [
+                    8.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 75,
+            "prev_ID": 74,
+            "next_ID": 76,
+            "he1_ID": 95,
+            "he2_ID": 53,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    10.0
+                ],
+                [
+                    6.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 76,
+            "prev_ID": 75,
+            "next_ID": 77,
+            "he1_ID": 38,
+            "he2_ID": 1,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    12.0
+                ],
+                [
+                    6.0,
+                    12.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": [
+                    "Uniform_load_1"
+                ]
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 77,
+            "prev_ID": 76,
+            "next_ID": 78,
+            "he1_ID": 59,
+            "he2_ID": 149,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    12.0
+                ],
+                [
+                    8.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 78,
+            "prev_ID": 77,
+            "next_ID": 79,
+            "he1_ID": 116,
+            "he2_ID": 152,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    8.0,
+                    10.0
+                ],
+                [
+                    8.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 79,
+            "prev_ID": 78,
+            "next_ID": 80,
+            "he1_ID": 65,
+            "he2_ID": 155,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    12.0
+                ],
+                [
+                    10.0,
+                    10.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "EDGE",
+            "ID": 80,
+            "prev_ID": 79,
+            "next_ID": null,
+            "he1_ID": 125,
+            "he2_ID": 158,
+            "segment_type": "LINE",
+            "points": [
+                [
+                    10.0,
+                    10.0
+                ],
+                [
+                    10.0,
+                    8.0
+                ]
+            ],
+            "attributes": {
+                "nsudv": null,
+                "att_names": []
+            }
+        }
+    ],
+    "faces": [
+        {
+            "type": "FACE",
+            "ID": 0,
+            "prev_ID": null,
+            "next_ID": 20,
+            "loop": {
+                "type": "LOOP",
+                "ID": 1,
+                "prev_ID": null,
+                "next_ID": 2,
+                "face_ID": 0,
+                "he_loop": null,
+                "isClosed": false
+            },
+            "intLoops": [
+                {
+                    "type": "LOOP",
+                    "ID": 2,
+                    "prev_ID": 1,
+                    "next_ID": null,
+                    "face_ID": 0,
+                    "he_loop": [
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 1,
+                            "prev_ID": 16,
+                            "next_ID": 2,
+                            "vertex_ID": 10,
+                            "edge_ID": 76,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 2,
+                            "prev_ID": 1,
+                            "next_ID": 3,
+                            "vertex_ID": 13,
+                            "edge_ID": 25,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 3,
+                            "prev_ID": 2,
+                            "next_ID": 4,
+                            "vertex_ID": 16,
+                            "edge_ID": 31,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 4,
+                            "prev_ID": 3,
+                            "next_ID": 5,
+                            "vertex_ID": 19,
+                            "edge_ID": 37,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 5,
+                            "prev_ID": 4,
+                            "next_ID": 6,
+                            "vertex_ID": 20,
+                            "edge_ID": 38,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 6,
+                            "prev_ID": 5,
+                            "next_ID": 7,
+                            "vertex_ID": 22,
+                            "edge_ID": 61,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 7,
+                            "prev_ID": 6,
+                            "next_ID": 8,
+                            "vertex_ID": 32,
+                            "edge_ID": 60,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 8,
+                            "prev_ID": 7,
+                            "next_ID": 9,
+                            "vertex_ID": 29,
+                            "edge_ID": 74,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 9,
+                            "prev_ID": 8,
+                            "next_ID": 10,
+                            "vertex_ID": 27,
+                            "edge_ID": 49,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 10,
+                            "prev_ID": 9,
+                            "next_ID": 11,
+                            "vertex_ID": 25,
+                            "edge_ID": 44,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 11,
+                            "prev_ID": 10,
+                            "next_ID": 12,
+                            "vertex_ID": 23,
+                            "edge_ID": 39,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 12,
+                            "prev_ID": 11,
+                            "next_ID": 13,
+                            "vertex_ID": 1,
+                            "edge_ID": 2,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 13,
+                            "prev_ID": 12,
+                            "next_ID": 14,
+                            "vertex_ID": 3,
+                            "edge_ID": 1,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 14,
+                            "prev_ID": 13,
+                            "next_ID": 15,
+                            "vertex_ID": 2,
+                            "edge_ID": 4,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 15,
+                            "prev_ID": 14,
+                            "next_ID": 16,
+                            "vertex_ID": 5,
+                            "edge_ID": 10,
+                            "loop_ID": 2
+                        },
+                        {
+                            "type": "HALF-EDGE",
+                            "ID": 16,
+                            "prev_ID": 15,
+                            "next_ID": 1,
+                            "vertex_ID": 8,
+                            "edge_ID": 15,
+                            "loop_ID": 2
+                        }
+                    ],
+                    "isClosed": false
+                }
+            ],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": []
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 1,
+            "prev_ID": 23,
+            "next_ID": 4,
+            "loop": {
+                "type": "LOOP",
+                "ID": 3,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 1,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 17,
+                        "prev_ID": 19,
+                        "next_ID": 18,
+                        "vertex_ID": 6,
+                        "edge_ID": 8,
+                        "loop_ID": 3
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 18,
+                        "prev_ID": 17,
+                        "next_ID": 19,
+                        "vertex_ID": 5,
+                        "edge_ID": 4,
+                        "loop_ID": 3
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 19,
+                        "prev_ID": 18,
+                        "next_ID": 17,
+                        "vertex_ID": 2,
+                        "edge_ID": 5,
+                        "loop_ID": 3
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 2,
+            "prev_ID": 6,
+            "next_ID": 3,
+            "loop": {
+                "type": "LOOP",
+                "ID": 4,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 2,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 20,
+                        "prev_ID": 22,
+                        "next_ID": 21,
+                        "vertex_ID": 3,
+                        "edge_ID": 7,
+                        "loop_ID": 4
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 21,
+                        "prev_ID": 20,
+                        "next_ID": 22,
+                        "vertex_ID": 6,
+                        "edge_ID": 5,
+                        "loop_ID": 4
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 22,
+                        "prev_ID": 21,
+                        "next_ID": 20,
+                        "vertex_ID": 2,
+                        "edge_ID": 1,
+                        "loop_ID": 4
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 3,
+            "prev_ID": 2,
+            "next_ID": null,
+            "loop": {
+                "type": "LOOP",
+                "ID": 5,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 3,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 23,
+                        "prev_ID": 25,
+                        "next_ID": 24,
+                        "vertex_ID": 6,
+                        "edge_ID": 7,
+                        "loop_ID": 5
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 24,
+                        "prev_ID": 23,
+                        "next_ID": 25,
+                        "vertex_ID": 3,
+                        "edge_ID": 3,
+                        "loop_ID": 5
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 25,
+                        "prev_ID": 24,
+                        "next_ID": 23,
+                        "vertex_ID": 4,
+                        "edge_ID": 6,
+                        "loop_ID": 5
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 4,
+            "prev_ID": 1,
+            "next_ID": 7,
+            "loop": {
+                "type": "LOOP",
+                "ID": 6,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 4,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 26,
+                        "prev_ID": 28,
+                        "next_ID": 27,
+                        "vertex_ID": 9,
+                        "edge_ID": 14,
+                        "loop_ID": 6
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 27,
+                        "prev_ID": 26,
+                        "next_ID": 28,
+                        "vertex_ID": 8,
+                        "edge_ID": 10,
+                        "loop_ID": 6
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 28,
+                        "prev_ID": 27,
+                        "next_ID": 26,
+                        "vertex_ID": 5,
+                        "edge_ID": 11,
+                        "loop_ID": 6
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 5,
+            "prev_ID": 10,
+            "next_ID": 39,
+            "loop": {
+                "type": "LOOP",
+                "ID": 7,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 5,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 29,
+                        "prev_ID": 31,
+                        "next_ID": 30,
+                        "vertex_ID": 5,
+                        "edge_ID": 68,
+                        "loop_ID": 7
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 30,
+                        "prev_ID": 29,
+                        "next_ID": 31,
+                        "vertex_ID": 4,
+                        "edge_ID": 13,
+                        "loop_ID": 7
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 31,
+                        "prev_ID": 30,
+                        "next_ID": 29,
+                        "vertex_ID": 9,
+                        "edge_ID": 11,
+                        "loop_ID": 7
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 6,
+            "prev_ID": 39,
+            "next_ID": 2,
+            "loop": {
+                "type": "LOOP",
+                "ID": 8,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 6,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 32,
+                        "prev_ID": 34,
+                        "next_ID": 33,
+                        "vertex_ID": 9,
+                        "edge_ID": 13,
+                        "loop_ID": 8
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 33,
+                        "prev_ID": 32,
+                        "next_ID": 34,
+                        "vertex_ID": 4,
+                        "edge_ID": 9,
+                        "loop_ID": 8
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 34,
+                        "prev_ID": 33,
+                        "next_ID": 32,
+                        "vertex_ID": 7,
+                        "edge_ID": 12,
+                        "loop_ID": 8
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 7,
+            "prev_ID": 4,
+            "next_ID": 9,
+            "loop": {
+                "type": "LOOP",
+                "ID": 9,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 7,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 35,
+                        "prev_ID": 37,
+                        "next_ID": 36,
+                        "vertex_ID": 8,
+                        "edge_ID": 19,
+                        "loop_ID": 9
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 36,
+                        "prev_ID": 35,
+                        "next_ID": 37,
+                        "vertex_ID": 12,
+                        "edge_ID": 18,
+                        "loop_ID": 9
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 37,
+                        "prev_ID": 36,
+                        "next_ID": 35,
+                        "vertex_ID": 10,
+                        "edge_ID": 15,
+                        "loop_ID": 9
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 8,
+            "prev_ID": 41,
+            "next_ID": 12,
+            "loop": {
+                "type": "LOOP",
+                "ID": 10,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 8,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 38,
+                        "prev_ID": 40,
+                        "next_ID": 39,
+                        "vertex_ID": 13,
+                        "edge_ID": 76,
+                        "loop_ID": 10
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 39,
+                        "prev_ID": 38,
+                        "next_ID": 40,
+                        "vertex_ID": 10,
+                        "edge_ID": 23,
+                        "loop_ID": 10
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 40,
+                        "prev_ID": 39,
+                        "next_ID": 38,
+                        "vertex_ID": 14,
+                        "edge_ID": 22,
+                        "loop_ID": 10
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 9,
+            "prev_ID": 7,
+            "next_ID": 41,
+            "loop": {
+                "type": "LOOP",
+                "ID": 11,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 9,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 41,
+                        "prev_ID": 43,
+                        "next_ID": 42,
+                        "vertex_ID": 8,
+                        "edge_ID": 70,
+                        "loop_ID": 11
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 42,
+                        "prev_ID": 41,
+                        "next_ID": 43,
+                        "vertex_ID": 7,
+                        "edge_ID": 17,
+                        "loop_ID": 11
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 43,
+                        "prev_ID": 42,
+                        "next_ID": 41,
+                        "vertex_ID": 12,
+                        "edge_ID": 19,
+                        "loop_ID": 11
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 10,
+            "prev_ID": 13,
+            "next_ID": 5,
+            "loop": {
+                "type": "LOOP",
+                "ID": 12,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 10,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 44,
+                        "prev_ID": 46,
+                        "next_ID": 45,
+                        "vertex_ID": 11,
+                        "edge_ID": 20,
+                        "loop_ID": 12
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 45,
+                        "prev_ID": 44,
+                        "next_ID": 46,
+                        "vertex_ID": 12,
+                        "edge_ID": 17,
+                        "loop_ID": 12
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 46,
+                        "prev_ID": 45,
+                        "next_ID": 44,
+                        "vertex_ID": 7,
+                        "edge_ID": 16,
+                        "loop_ID": 12
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 11,
+            "prev_ID": 43,
+            "next_ID": 15,
+            "loop": {
+                "type": "LOOP",
+                "ID": 13,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 11,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 47,
+                        "prev_ID": 49,
+                        "next_ID": 48,
+                        "vertex_ID": 13,
+                        "edge_ID": 29,
+                        "loop_ID": 13
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 48,
+                        "prev_ID": 47,
+                        "next_ID": 49,
+                        "vertex_ID": 17,
+                        "edge_ID": 27,
+                        "loop_ID": 13
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 49,
+                        "prev_ID": 48,
+                        "next_ID": 47,
+                        "vertex_ID": 16,
+                        "edge_ID": 25,
+                        "loop_ID": 13
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 12,
+            "prev_ID": 8,
+            "next_ID": 43,
+            "loop": {
+                "type": "LOOP",
+                "ID": 14,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 12,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 50,
+                        "prev_ID": 52,
+                        "next_ID": 51,
+                        "vertex_ID": 10,
+                        "edge_ID": 72,
+                        "loop_ID": 14
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 51,
+                        "prev_ID": 50,
+                        "next_ID": 52,
+                        "vertex_ID": 11,
+                        "edge_ID": 21,
+                        "loop_ID": 14
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 52,
+                        "prev_ID": 51,
+                        "next_ID": 50,
+                        "vertex_ID": 14,
+                        "edge_ID": 23,
+                        "loop_ID": 14
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 13,
+            "prev_ID": 16,
+            "next_ID": 10,
+            "loop": {
+                "type": "LOOP",
+                "ID": 15,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 13,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 53,
+                        "prev_ID": 55,
+                        "next_ID": 54,
+                        "vertex_ID": 11,
+                        "edge_ID": 75,
+                        "loop_ID": 15
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 54,
+                        "prev_ID": 53,
+                        "next_ID": 55,
+                        "vertex_ID": 15,
+                        "edge_ID": 24,
+                        "loop_ID": 15
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 55,
+                        "prev_ID": 54,
+                        "next_ID": 53,
+                        "vertex_ID": 14,
+                        "edge_ID": 21,
+                        "loop_ID": 15
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 14,
+            "prev_ID": 45,
+            "next_ID": 17,
+            "loop": {
+                "type": "LOOP",
+                "ID": 16,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 14,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 56,
+                        "prev_ID": 58,
+                        "next_ID": 57,
+                        "vertex_ID": 16,
+                        "edge_ID": 35,
+                        "loop_ID": 16
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 57,
+                        "prev_ID": 56,
+                        "next_ID": 58,
+                        "vertex_ID": 21,
+                        "edge_ID": 34,
+                        "loop_ID": 16
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 58,
+                        "prev_ID": 57,
+                        "next_ID": 56,
+                        "vertex_ID": 19,
+                        "edge_ID": 31,
+                        "loop_ID": 16
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 15,
+            "prev_ID": 11,
+            "next_ID": 45,
+            "loop": {
+                "type": "LOOP",
+                "ID": 17,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 15,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 59,
+                        "prev_ID": 61,
+                        "next_ID": 60,
+                        "vertex_ID": 13,
+                        "edge_ID": 77,
+                        "loop_ID": 17
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 60,
+                        "prev_ID": 59,
+                        "next_ID": 61,
+                        "vertex_ID": 15,
+                        "edge_ID": 26,
+                        "loop_ID": 17
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 61,
+                        "prev_ID": 60,
+                        "next_ID": 59,
+                        "vertex_ID": 17,
+                        "edge_ID": 29,
+                        "loop_ID": 17
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 16,
+            "prev_ID": 18,
+            "next_ID": 13,
+            "loop": {
+                "type": "LOOP",
+                "ID": 18,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 16,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 62,
+                        "prev_ID": 64,
+                        "next_ID": 63,
+                        "vertex_ID": 18,
+                        "edge_ID": 30,
+                        "loop_ID": 18
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 63,
+                        "prev_ID": 62,
+                        "next_ID": 64,
+                        "vertex_ID": 17,
+                        "edge_ID": 26,
+                        "loop_ID": 18
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 64,
+                        "prev_ID": 63,
+                        "next_ID": 62,
+                        "vertex_ID": 15,
+                        "edge_ID": 28,
+                        "loop_ID": 18
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 17,
+            "prev_ID": 14,
+            "next_ID": 47,
+            "loop": {
+                "type": "LOOP",
+                "ID": 19,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 17,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 65,
+                        "prev_ID": 67,
+                        "next_ID": 66,
+                        "vertex_ID": 16,
+                        "edge_ID": 79,
+                        "loop_ID": 19
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 66,
+                        "prev_ID": 65,
+                        "next_ID": 67,
+                        "vertex_ID": 18,
+                        "edge_ID": 33,
+                        "loop_ID": 19
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 67,
+                        "prev_ID": 66,
+                        "next_ID": 65,
+                        "vertex_ID": 21,
+                        "edge_ID": 35,
+                        "loop_ID": 19
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 18,
+            "prev_ID": 19,
+            "next_ID": 16,
+            "loop": {
+                "type": "LOOP",
+                "ID": 20,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 18,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 68,
+                        "prev_ID": 70,
+                        "next_ID": 69,
+                        "vertex_ID": 20,
+                        "edge_ID": 36,
+                        "loop_ID": 20
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 69,
+                        "prev_ID": 68,
+                        "next_ID": 70,
+                        "vertex_ID": 21,
+                        "edge_ID": 33,
+                        "loop_ID": 20
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 70,
+                        "prev_ID": 69,
+                        "next_ID": 68,
+                        "vertex_ID": 18,
+                        "edge_ID": 32,
+                        "loop_ID": 20
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 19,
+            "prev_ID": 47,
+            "next_ID": 18,
+            "loop": {
+                "type": "LOOP",
+                "ID": 21,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 19,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 71,
+                        "prev_ID": 73,
+                        "next_ID": 72,
+                        "vertex_ID": 20,
+                        "edge_ID": 37,
+                        "loop_ID": 21
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 72,
+                        "prev_ID": 71,
+                        "next_ID": 73,
+                        "vertex_ID": 19,
+                        "edge_ID": 34,
+                        "loop_ID": 21
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 73,
+                        "prev_ID": 72,
+                        "next_ID": 71,
+                        "vertex_ID": 21,
+                        "edge_ID": 36,
+                        "loop_ID": 21
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 20,
+            "prev_ID": 0,
+            "next_ID": 25,
+            "loop": {
+                "type": "LOOP",
+                "ID": 22,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 20,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 74,
+                        "prev_ID": 76,
+                        "next_ID": 75,
+                        "vertex_ID": 4,
+                        "edge_ID": 47,
+                        "loop_ID": 22
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 75,
+                        "prev_ID": 74,
+                        "next_ID": 76,
+                        "vertex_ID": 26,
+                        "edge_ID": 46,
+                        "loop_ID": 22
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 76,
+                        "prev_ID": 75,
+                        "next_ID": 74,
+                        "vertex_ID": 7,
+                        "edge_ID": 9,
+                        "loop_ID": 22
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 21,
+            "prev_ID": 22,
+            "next_ID": 23,
+            "loop": {
+                "type": "LOOP",
+                "ID": 23,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 21,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 77,
+                        "prev_ID": 79,
+                        "next_ID": 78,
+                        "vertex_ID": 24,
+                        "edge_ID": 43,
+                        "loop_ID": 23
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 78,
+                        "prev_ID": 77,
+                        "next_ID": 79,
+                        "vertex_ID": 1,
+                        "edge_ID": 39,
+                        "loop_ID": 23
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 79,
+                        "prev_ID": 78,
+                        "next_ID": 77,
+                        "vertex_ID": 23,
+                        "edge_ID": 41,
+                        "loop_ID": 23
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 22,
+            "prev_ID": 26,
+            "next_ID": 21,
+            "loop": {
+                "type": "LOOP",
+                "ID": 24,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 22,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 80,
+                        "prev_ID": 82,
+                        "next_ID": 81,
+                        "vertex_ID": 24,
+                        "edge_ID": 42,
+                        "loop_ID": 24
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 81,
+                        "prev_ID": 80,
+                        "next_ID": 82,
+                        "vertex_ID": 4,
+                        "edge_ID": 3,
+                        "loop_ID": 24
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 82,
+                        "prev_ID": 81,
+                        "next_ID": 80,
+                        "vertex_ID": 3,
+                        "edge_ID": 40,
+                        "loop_ID": 24
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 23,
+            "prev_ID": 21,
+            "next_ID": 1,
+            "loop": {
+                "type": "LOOP",
+                "ID": 25,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 23,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 83,
+                        "prev_ID": 85,
+                        "next_ID": 84,
+                        "vertex_ID": 1,
+                        "edge_ID": 43,
+                        "loop_ID": 25
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 84,
+                        "prev_ID": 83,
+                        "next_ID": 85,
+                        "vertex_ID": 24,
+                        "edge_ID": 40,
+                        "loop_ID": 25
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 85,
+                        "prev_ID": 84,
+                        "next_ID": 83,
+                        "vertex_ID": 3,
+                        "edge_ID": 2,
+                        "loop_ID": 25
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 24,
+            "prev_ID": 40,
+            "next_ID": 28,
+            "loop": {
+                "type": "LOOP",
+                "ID": 26,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 24,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 86,
+                        "prev_ID": 88,
+                        "next_ID": 87,
+                        "vertex_ID": 7,
+                        "edge_ID": 52,
+                        "loop_ID": 26
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 87,
+                        "prev_ID": 86,
+                        "next_ID": 88,
+                        "vertex_ID": 28,
+                        "edge_ID": 51,
+                        "loop_ID": 26
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 88,
+                        "prev_ID": 87,
+                        "next_ID": 86,
+                        "vertex_ID": 11,
+                        "edge_ID": 16,
+                        "loop_ID": 26
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 25,
+            "prev_ID": 20,
+            "next_ID": 40,
+            "loop": {
+                "type": "LOOP",
+                "ID": 27,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 25,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 89,
+                        "prev_ID": 91,
+                        "next_ID": 90,
+                        "vertex_ID": 4,
+                        "edge_ID": 69,
+                        "loop_ID": 27
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 90,
+                        "prev_ID": 89,
+                        "next_ID": 91,
+                        "vertex_ID": 23,
+                        "edge_ID": 45,
+                        "loop_ID": 27
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 91,
+                        "prev_ID": 90,
+                        "next_ID": 89,
+                        "vertex_ID": 26,
+                        "edge_ID": 47,
+                        "loop_ID": 27
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 26,
+            "prev_ID": 29,
+            "next_ID": 22,
+            "loop": {
+                "type": "LOOP",
+                "ID": 28,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 26,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 92,
+                        "prev_ID": 94,
+                        "next_ID": 93,
+                        "vertex_ID": 25,
+                        "edge_ID": 48,
+                        "loop_ID": 28
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 93,
+                        "prev_ID": 92,
+                        "next_ID": 94,
+                        "vertex_ID": 26,
+                        "edge_ID": 45,
+                        "loop_ID": 28
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 94,
+                        "prev_ID": 93,
+                        "next_ID": 92,
+                        "vertex_ID": 23,
+                        "edge_ID": 44,
+                        "loop_ID": 28
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 27,
+            "prev_ID": 42,
+            "next_ID": 31,
+            "loop": {
+                "type": "LOOP",
+                "ID": 29,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 27,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 95,
+                        "prev_ID": 97,
+                        "next_ID": 96,
+                        "vertex_ID": 15,
+                        "edge_ID": 75,
+                        "loop_ID": 29
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 96,
+                        "prev_ID": 95,
+                        "next_ID": 97,
+                        "vertex_ID": 11,
+                        "edge_ID": 56,
+                        "loop_ID": 29
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 97,
+                        "prev_ID": 96,
+                        "next_ID": 95,
+                        "vertex_ID": 30,
+                        "edge_ID": 55,
+                        "loop_ID": 29
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 28,
+            "prev_ID": 24,
+            "next_ID": 42,
+            "loop": {
+                "type": "LOOP",
+                "ID": 30,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 28,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 98,
+                        "prev_ID": 100,
+                        "next_ID": 99,
+                        "vertex_ID": 7,
+                        "edge_ID": 71,
+                        "loop_ID": 30
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 99,
+                        "prev_ID": 98,
+                        "next_ID": 100,
+                        "vertex_ID": 25,
+                        "edge_ID": 50,
+                        "loop_ID": 30
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 100,
+                        "prev_ID": 99,
+                        "next_ID": 98,
+                        "vertex_ID": 28,
+                        "edge_ID": 52,
+                        "loop_ID": 30
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 29,
+            "prev_ID": 32,
+            "next_ID": 26,
+            "loop": {
+                "type": "LOOP",
+                "ID": 31,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 29,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 101,
+                        "prev_ID": 103,
+                        "next_ID": 102,
+                        "vertex_ID": 27,
+                        "edge_ID": 53,
+                        "loop_ID": 31
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 102,
+                        "prev_ID": 101,
+                        "next_ID": 103,
+                        "vertex_ID": 28,
+                        "edge_ID": 50,
+                        "loop_ID": 31
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 103,
+                        "prev_ID": 102,
+                        "next_ID": 101,
+                        "vertex_ID": 25,
+                        "edge_ID": 49,
+                        "loop_ID": 31
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 30,
+            "prev_ID": 44,
+            "next_ID": 37,
+            "loop": {
+                "type": "LOOP",
+                "ID": 32,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 30,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 104,
+                        "prev_ID": 106,
+                        "next_ID": 105,
+                        "vertex_ID": 18,
+                        "edge_ID": 66,
+                        "loop_ID": 32
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 105,
+                        "prev_ID": 104,
+                        "next_ID": 106,
+                        "vertex_ID": 33,
+                        "edge_ID": 65,
+                        "loop_ID": 32
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 106,
+                        "prev_ID": 105,
+                        "next_ID": 104,
+                        "vertex_ID": 20,
+                        "edge_ID": 32,
+                        "loop_ID": 32
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 31,
+            "prev_ID": 27,
+            "next_ID": 44,
+            "loop": {
+                "type": "LOOP",
+                "ID": 33,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 31,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 107,
+                        "prev_ID": 109,
+                        "next_ID": 108,
+                        "vertex_ID": 11,
+                        "edge_ID": 73,
+                        "loop_ID": 33
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 108,
+                        "prev_ID": 107,
+                        "next_ID": 109,
+                        "vertex_ID": 27,
+                        "edge_ID": 54,
+                        "loop_ID": 33
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 109,
+                        "prev_ID": 108,
+                        "next_ID": 107,
+                        "vertex_ID": 30,
+                        "edge_ID": 56,
+                        "loop_ID": 33
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 32,
+            "prev_ID": 46,
+            "next_ID": 29,
+            "loop": {
+                "type": "LOOP",
+                "ID": 34,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 32,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 110,
+                        "prev_ID": 112,
+                        "next_ID": 111,
+                        "vertex_ID": 27,
+                        "edge_ID": 74,
+                        "loop_ID": 34
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 111,
+                        "prev_ID": 110,
+                        "next_ID": 112,
+                        "vertex_ID": 29,
+                        "edge_ID": 57,
+                        "loop_ID": 34
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 112,
+                        "prev_ID": 111,
+                        "next_ID": 110,
+                        "vertex_ID": 30,
+                        "edge_ID": 54,
+                        "loop_ID": 34
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 33,
+            "prev_ID": 35,
+            "next_ID": 34,
+            "loop": {
+                "type": "LOOP",
+                "ID": 35,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 33,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 113,
+                        "prev_ID": 115,
+                        "next_ID": 114,
+                        "vertex_ID": 15,
+                        "edge_ID": 62,
+                        "loop_ID": 35
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 114,
+                        "prev_ID": 113,
+                        "next_ID": 115,
+                        "vertex_ID": 31,
+                        "edge_ID": 58,
+                        "loop_ID": 35
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 115,
+                        "prev_ID": 114,
+                        "next_ID": 113,
+                        "vertex_ID": 18,
+                        "edge_ID": 28,
+                        "loop_ID": 35
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 34,
+            "prev_ID": 33,
+            "next_ID": 46,
+            "loop": {
+                "type": "LOOP",
+                "ID": 36,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 34,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 116,
+                        "prev_ID": 118,
+                        "next_ID": 117,
+                        "vertex_ID": 15,
+                        "edge_ID": 78,
+                        "loop_ID": 36
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 117,
+                        "prev_ID": 116,
+                        "next_ID": 118,
+                        "vertex_ID": 29,
+                        "edge_ID": 59,
+                        "loop_ID": 36
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 118,
+                        "prev_ID": 117,
+                        "next_ID": 116,
+                        "vertex_ID": 31,
+                        "edge_ID": 62,
+                        "loop_ID": 36
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 35,
+            "prev_ID": 38,
+            "next_ID": 33,
+            "loop": {
+                "type": "LOOP",
+                "ID": 37,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 35,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 119,
+                        "prev_ID": 121,
+                        "next_ID": 120,
+                        "vertex_ID": 32,
+                        "edge_ID": 63,
+                        "loop_ID": 37
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 120,
+                        "prev_ID": 119,
+                        "next_ID": 121,
+                        "vertex_ID": 31,
+                        "edge_ID": 59,
+                        "loop_ID": 37
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 121,
+                        "prev_ID": 120,
+                        "next_ID": 119,
+                        "vertex_ID": 29,
+                        "edge_ID": 60,
+                        "loop_ID": 37
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 36,
+            "prev_ID": 48,
+            "next_ID": 38,
+            "loop": {
+                "type": "LOOP",
+                "ID": 38,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 36,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 122,
+                        "prev_ID": 124,
+                        "next_ID": 123,
+                        "vertex_ID": 33,
+                        "edge_ID": 67,
+                        "loop_ID": 38
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 123,
+                        "prev_ID": 122,
+                        "next_ID": 124,
+                        "vertex_ID": 22,
+                        "edge_ID": 38,
+                        "loop_ID": 38
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 124,
+                        "prev_ID": 123,
+                        "next_ID": 122,
+                        "vertex_ID": 20,
+                        "edge_ID": 65,
+                        "loop_ID": 38
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 37,
+            "prev_ID": 30,
+            "next_ID": 48,
+            "loop": {
+                "type": "LOOP",
+                "ID": 39,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 37,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 125,
+                        "prev_ID": 127,
+                        "next_ID": 126,
+                        "vertex_ID": 18,
+                        "edge_ID": 80,
+                        "loop_ID": 39
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 126,
+                        "prev_ID": 125,
+                        "next_ID": 127,
+                        "vertex_ID": 32,
+                        "edge_ID": 64,
+                        "loop_ID": 39
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 127,
+                        "prev_ID": 126,
+                        "next_ID": 125,
+                        "vertex_ID": 33,
+                        "edge_ID": 66,
+                        "loop_ID": 39
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 38,
+            "prev_ID": 36,
+            "next_ID": 35,
+            "loop": {
+                "type": "LOOP",
+                "ID": 40,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 38,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 128,
+                        "prev_ID": 130,
+                        "next_ID": 129,
+                        "vertex_ID": 22,
+                        "edge_ID": 67,
+                        "loop_ID": 40
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 129,
+                        "prev_ID": 128,
+                        "next_ID": 130,
+                        "vertex_ID": 33,
+                        "edge_ID": 64,
+                        "loop_ID": 40
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 130,
+                        "prev_ID": 129,
+                        "next_ID": 128,
+                        "vertex_ID": 32,
+                        "edge_ID": 61,
+                        "loop_ID": 40
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 39,
+            "prev_ID": 5,
+            "next_ID": 6,
+            "loop": {
+                "type": "LOOP",
+                "ID": 41,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 39,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 131,
+                        "prev_ID": 133,
+                        "next_ID": 132,
+                        "vertex_ID": 4,
+                        "edge_ID": 68,
+                        "loop_ID": 41
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 132,
+                        "prev_ID": 131,
+                        "next_ID": 133,
+                        "vertex_ID": 5,
+                        "edge_ID": 8,
+                        "loop_ID": 41
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 133,
+                        "prev_ID": 132,
+                        "next_ID": 131,
+                        "vertex_ID": 6,
+                        "edge_ID": 6,
+                        "loop_ID": 41
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 40,
+            "prev_ID": 25,
+            "next_ID": 24,
+            "loop": {
+                "type": "LOOP",
+                "ID": 42,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 40,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 134,
+                        "prev_ID": 136,
+                        "next_ID": 135,
+                        "vertex_ID": 23,
+                        "edge_ID": 69,
+                        "loop_ID": 42
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 135,
+                        "prev_ID": 134,
+                        "next_ID": 136,
+                        "vertex_ID": 4,
+                        "edge_ID": 42,
+                        "loop_ID": 42
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 136,
+                        "prev_ID": 135,
+                        "next_ID": 134,
+                        "vertex_ID": 24,
+                        "edge_ID": 41,
+                        "loop_ID": 42
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 41,
+            "prev_ID": 9,
+            "next_ID": 8,
+            "loop": {
+                "type": "LOOP",
+                "ID": 43,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 41,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 137,
+                        "prev_ID": 139,
+                        "next_ID": 138,
+                        "vertex_ID": 7,
+                        "edge_ID": 70,
+                        "loop_ID": 43
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 138,
+                        "prev_ID": 137,
+                        "next_ID": 139,
+                        "vertex_ID": 8,
+                        "edge_ID": 14,
+                        "loop_ID": 43
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 139,
+                        "prev_ID": 138,
+                        "next_ID": 137,
+                        "vertex_ID": 9,
+                        "edge_ID": 12,
+                        "loop_ID": 43
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 42,
+            "prev_ID": 28,
+            "next_ID": 27,
+            "loop": {
+                "type": "LOOP",
+                "ID": 44,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 42,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 140,
+                        "prev_ID": 142,
+                        "next_ID": 141,
+                        "vertex_ID": 25,
+                        "edge_ID": 71,
+                        "loop_ID": 44
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 141,
+                        "prev_ID": 140,
+                        "next_ID": 142,
+                        "vertex_ID": 7,
+                        "edge_ID": 46,
+                        "loop_ID": 44
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 142,
+                        "prev_ID": 141,
+                        "next_ID": 140,
+                        "vertex_ID": 26,
+                        "edge_ID": 48,
+                        "loop_ID": 44
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 43,
+            "prev_ID": 12,
+            "next_ID": 11,
+            "loop": {
+                "type": "LOOP",
+                "ID": 45,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 43,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 143,
+                        "prev_ID": 145,
+                        "next_ID": 144,
+                        "vertex_ID": 11,
+                        "edge_ID": 72,
+                        "loop_ID": 45
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 144,
+                        "prev_ID": 143,
+                        "next_ID": 145,
+                        "vertex_ID": 10,
+                        "edge_ID": 18,
+                        "loop_ID": 45
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 145,
+                        "prev_ID": 144,
+                        "next_ID": 143,
+                        "vertex_ID": 12,
+                        "edge_ID": 20,
+                        "loop_ID": 45
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 44,
+            "prev_ID": 31,
+            "next_ID": 30,
+            "loop": {
+                "type": "LOOP",
+                "ID": 46,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 44,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 146,
+                        "prev_ID": 148,
+                        "next_ID": 147,
+                        "vertex_ID": 27,
+                        "edge_ID": 73,
+                        "loop_ID": 46
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 147,
+                        "prev_ID": 146,
+                        "next_ID": 148,
+                        "vertex_ID": 11,
+                        "edge_ID": 51,
+                        "loop_ID": 46
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 148,
+                        "prev_ID": 147,
+                        "next_ID": 146,
+                        "vertex_ID": 28,
+                        "edge_ID": 53,
+                        "loop_ID": 46
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 45,
+            "prev_ID": 15,
+            "next_ID": 14,
+            "loop": {
+                "type": "LOOP",
+                "ID": 47,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 45,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 149,
+                        "prev_ID": 151,
+                        "next_ID": 150,
+                        "vertex_ID": 15,
+                        "edge_ID": 77,
+                        "loop_ID": 47
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 150,
+                        "prev_ID": 149,
+                        "next_ID": 151,
+                        "vertex_ID": 13,
+                        "edge_ID": 22,
+                        "loop_ID": 47
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 151,
+                        "prev_ID": 150,
+                        "next_ID": 149,
+                        "vertex_ID": 14,
+                        "edge_ID": 24,
+                        "loop_ID": 47
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 46,
+            "prev_ID": 34,
+            "next_ID": 32,
+            "loop": {
+                "type": "LOOP",
+                "ID": 48,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 46,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 152,
+                        "prev_ID": 154,
+                        "next_ID": 153,
+                        "vertex_ID": 29,
+                        "edge_ID": 78,
+                        "loop_ID": 48
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 153,
+                        "prev_ID": 152,
+                        "next_ID": 154,
+                        "vertex_ID": 15,
+                        "edge_ID": 55,
+                        "loop_ID": 48
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 154,
+                        "prev_ID": 153,
+                        "next_ID": 152,
+                        "vertex_ID": 30,
+                        "edge_ID": 57,
+                        "loop_ID": 48
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 47,
+            "prev_ID": 17,
+            "next_ID": 19,
+            "loop": {
+                "type": "LOOP",
+                "ID": 49,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 47,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 155,
+                        "prev_ID": 157,
+                        "next_ID": 156,
+                        "vertex_ID": 18,
+                        "edge_ID": 79,
+                        "loop_ID": 49
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 156,
+                        "prev_ID": 155,
+                        "next_ID": 157,
+                        "vertex_ID": 16,
+                        "edge_ID": 27,
+                        "loop_ID": 49
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 157,
+                        "prev_ID": 156,
+                        "next_ID": 155,
+                        "vertex_ID": 17,
+                        "edge_ID": 30,
+                        "loop_ID": 49
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_1"
+                ]
+            }
+        },
+        {
+            "type": "FACE",
+            "ID": 48,
+            "prev_ID": 37,
+            "next_ID": 36,
+            "loop": {
+                "type": "LOOP",
+                "ID": 50,
+                "prev_ID": null,
+                "next_ID": null,
+                "face_ID": 48,
+                "he_loop": [
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 158,
+                        "prev_ID": 160,
+                        "next_ID": 159,
+                        "vertex_ID": 32,
+                        "edge_ID": 80,
+                        "loop_ID": 50
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 159,
+                        "prev_ID": 158,
+                        "next_ID": 160,
+                        "vertex_ID": 18,
+                        "edge_ID": 58,
+                        "loop_ID": 50
+                    },
+                    {
+                        "type": "HALF-EDGE",
+                        "ID": 160,
+                        "prev_ID": 159,
+                        "next_ID": 158,
+                        "vertex_ID": 31,
+                        "edge_ID": 63,
+                        "loop_ID": 50
+                    }
+                ],
+                "isClosed": true
+            },
+            "intLoops": [],
+            "attributes": {
+                "isDeleted": false,
+                "mesh": null,
+                "att_names": [
+                    "material_2"
+                ]
+            }
+        }
+    ],
+    "attributes_list": [
+        {
+            "type": "Material",
+            "symbol": "Material",
+            "name": "material_1",
+            "properties": {
+                "YoungsModulus": 1000.0,
+                "PoisonsRatio": 0.3,
+                "Thickness": 1.0,
+                "Color": [
+                    0.27,
+                    0.8,
+                    0.9
+                ]
+            },
+            "applyOnVertex": false,
+            "applyOnEdge": false,
+            "applyOnFace": true,
+            "properties_type": [
+                "float",
+                "float",
+                "float",
+                "color"
+            ]
+        },
+        {
+            "type": "Material",
+            "symbol": "Material",
+            "name": "material_2",
+            "properties": {
+                "YoungsModulus": 2000.0,
+                "PoisonsRatio": 0.25,
+                "Thickness": 1.0,
+                "Color": [
+                    0.8,
+                    0.45,
+                    0.9
+                ]
+            },
+            "applyOnVertex": false,
+            "applyOnEdge": false,
+            "applyOnFace": true,
+            "properties_type": [
+                "float",
+                "float",
+                "float",
+                "color"
+            ]
+        },
+        {
+            "type": "Uniform Load",
+            "symbol": "Arrow",
+            "name": "Uniform_load_1",
+            "properties": {
+                "Qx": 0.0,
+                "Qy": -10.0,
+                "Direction": {
+                    "list": [
+                        "Global",
+                        "Local"
+                    ],
+                    "index": 0
+                },
+                "Color": [
+                    1.0,
+                    0.75,
+                    0
+                ]
+            },
+            "applyOnVertex": false,
+            "applyOnEdge": true,
+            "applyOnFace": false,
+            "properties_type": [
+                "float",
+                "float",
+                "options",
+                "color"
+            ]
+        },
+        {
+            "type": "Support Conditions",
+            "symbol": "Support",
+            "name": "sup_1",
+            "properties": {
+                "Dx": true,
+                "Dx pos": {
+                    "list": [
+                        "Left",
+                        "Right"
+                    ],
+                    "index": 0
+                },
+                "Dx value": -1.0,
+                "Dy": true,
+                "Dy pos": {
+                    "list": [
+                        "Down",
+                        "Up"
+                    ],
+                    "index": 0
+                },
+                "Dy value": 0.0,
+                "Rz": true,
+                "Rz value": 0.0,
+                "Color": [
+                    0.4,
+                    0.4,
+                    0.4
+                ]
+            },
+            "applyOnVertex": true,
+            "applyOnEdge": true,
+            "applyOnFace": false,
+            "properties_type": [
+                "bool",
+                "options",
+                "float",
+                "bool",
+                "options",
+                "float",
+                "bool",
+                "float",
+                "color"
+            ]
+        }
+    ]
+}
